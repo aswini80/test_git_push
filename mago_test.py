@@ -11,6 +11,24 @@ dic = {
     "surname":"Krishna"
 }
 
+dic = {
+    "name": "Radhe",
+    "emailid":"aswinikk@gmail.com",
+    "surname":"Krishna"
+}
+
+
+dic = {
+    "name": "Radhe",
+    "emailid":"aswinikk@gmail.com",
+    "surname":"Krishna"
+}
+
+dic = {
+    "name": "Radhe",
+    "emailid":"aswinikk@gmail.com",
+    "surname":"Krishna"
+}
 db1 = client['mongotest']
 coll = db1['test']
 coll.insert_one(dic )
